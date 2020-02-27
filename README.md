@@ -1,4 +1,4 @@
-# gitlab-ci-k8s-demo
+# gitlab-ci-k8s-demo .
 
 
 ![Kubernetes and GitLab](https://ws4.sinaimg.cn/large/006tKfTcgy1g19jrkx42pj30i20a6dgs.jpg)
